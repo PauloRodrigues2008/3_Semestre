@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Exercicio1
+namespace Exercicio3
 {
     public class Pessoa
     {
